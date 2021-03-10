@@ -21,7 +21,7 @@ function Nav() {
       <img
         className="nav_logo"
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_3yL9TsaOpy5ByhJPLyAxJBo6Rb6ybVV5cpNqqZ_okrr5P7ICvLPOFt9ypjNTUGZedU&usqp=CAU"
-        alt="Netflix Logo"
+        alt="Bricksquads Logo"
       />
       <img
         className="nav_avatar"

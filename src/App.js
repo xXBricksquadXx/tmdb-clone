@@ -1,6 +1,6 @@
 import requests from "./requests";
 import './App.css';
-import Row from "./Row";
+import Row from "./components/Row";
 
 function App() {
   return (
